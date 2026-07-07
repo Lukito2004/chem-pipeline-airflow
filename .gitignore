@@ -10,3 +10,4 @@ airflow.cfg
 .idea/
 .vscode/
 *.egg-info/
+faerun_out/

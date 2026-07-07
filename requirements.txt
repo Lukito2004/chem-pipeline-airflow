@@ -3,9 +3,8 @@ apache-airflow-providers-amazon
 rdkit==2024.3.5
 scikit-learn
 pandas
-numpy
+numpy<2
 requests
-# optional extras:
-# chemprop
-# faerun
-# tmap
+# optional-step libraries (steps 4 & 5)
+chemprop>=2.0,<3
+faerun>=0.4
