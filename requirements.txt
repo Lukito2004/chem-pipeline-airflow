@@ -1,0 +1,11 @@
+apache-airflow==2.9.3
+apache-airflow-providers-amazon
+rdkit==2024.3.5
+scikit-learn
+pandas
+numpy
+requests
+# optional extras:
+# chemprop
+# faerun
+# tmap
