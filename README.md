@@ -1,0 +1,1 @@
+Airflow pipeline for a cheminformatics drug-discovery workflow: generate molecules from scaffolds + R-groups, compute properties, cluster (K-means), with optional ChemProp prediction and Faerun graphs.
